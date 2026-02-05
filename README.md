@@ -1,4 +1,4 @@
-# 🚀 ImanCore - هسته هوش مصنوعی ایرانی
+[# 🚀 ImanCore - هسته هوش مصنوعی ایرانی
 
 ![ImanCore Banner](https://via.placeholder.com/1200x400/0d47a1/ffffff?text=ImanCore+AI+Hub)
 
@@ -24,7 +24,7 @@
 ## 🚀 نصب سریع
 ```bash
 # کلون کردن ریپوزیتوری
-git clone https://github.com/your-username/ImanCore.git
+
 cd ImanCore
 
 # نصب نیازمندی‌ها
@@ -32,3 +32,4 @@ pip install -r requirements.txt
 
 # اجرای نمونه اولیه
 python examples/quick_start.py
+](https://github.com/neonpresents01-beep/ImanCore/commits?author=neonpresents01-beep)
